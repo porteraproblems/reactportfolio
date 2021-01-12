@@ -5,4 +5,4 @@ import Navi from "../Components/Nav/nav";
 
 
 
-export default portfolio;
+export default Portfolio();
