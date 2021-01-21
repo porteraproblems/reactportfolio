@@ -30,7 +30,7 @@ function Contact() {
                             <img src={LinkedIn} className="img-fluid mx-auto d-block link-icon" alt="LinkedIn icon" />
                         </Col>
                         <Col md="11">
-                            <a href="" target="_black">My LinkedIn</a>
+                            <a href="https://www.linkedin.com/in/alexander-portera-9baa6a49/" target="_black">My LinkedIn</a>
                         </Col>
                     </Row>
 
