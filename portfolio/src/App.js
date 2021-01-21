@@ -1,6 +1,5 @@
 import React from "react";
-import { Router, Switch, Route } from "react-router-dom";
-import "./App.css";
+import { HashRouter, Switch, Route } from "react-router-dom";
 import Navi from "./Components/Nav/nav"
 import about from "./pages/About";
 import contact from "./pages/Contact";
@@ -10,7 +9,7 @@ import portfilio from "./pages/Portfolio";
 function App() {
     return (
         <div>
-        <Router>
+        <HashRouter>
             <Navi />
             <Switch>
                 <Route exact path="/" component={about} />
@@ -18,7 +17,7 @@ function App() {
                 <Route exact path="/portfolio" component={portfilio} />
                 <Route component={NoMatch} />
             </Switch>
-        </Router>
+        </HashRouter>
         </div>
     )
 }
