@@ -28,12 +28,12 @@ const Navi = props => {
                 </NavLink>
                         </NavItem>
                         <NavItem>
-                            <NavLink exact className="nav-link" to="/contact">
+                            <NavLink exact className="nav-link" to="/Contact">
                                 Contact
                 </NavLink>
                         </NavItem>
                         <NavItem>
-                            <NavLink exact className="nav-link" to="/portfolio">
+                            <NavLink exact className="nav-link" to="/Portfolio">
                                 Portfolio
                 </NavLink>
                         </NavItem>
