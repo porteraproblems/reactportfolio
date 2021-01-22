@@ -1,0 +1,15 @@
+.naviBar{
+background-color: black;} 
+
+#brand{
+    color: black;
+    font-weight: bolder;
+    -webkit-text-stroke-width: .2px;
+    -webkit-text-stroke-color: salmon;
+    font-size: 30px;
+}
+
+.nav-link{
+    color: black;
+    font-size: 30px;
+}

@@ -4,7 +4,7 @@ import {
     CardTitle, CardSubtitle, CardLink
 } from 'reactstrap';
 
-const ProjectCards = (props) => {
+const ProjectCards = () => {
     return (
         <div>
             <Card>
