@@ -9,8 +9,6 @@ import Portfilio from "./pages/Portfolio";
 function App() {
     return (
         <div>
-            <BrowserRouter basename="/portfolio">
-            </BrowserRouter>
         <HashRouter basename='/'>
             <Switch>
                 <Route exact path="/" component={About} />
@@ -22,5 +20,7 @@ function App() {
         </div>
     )
 }
+<BrowserRouter basename="/portfolio">
+</BrowserRouter>
 
 export default App;
