@@ -5,9 +5,12 @@ import Contact from "./pages/Contact";
 import NoMatch from "./pages/NoMatch";
 import Portfilio from "./pages/Portfolio";
 
+
 function App() {
     return (
         <div>
+            <BrowserRouter basename="/portfolio">
+            </BrowserRouter>
         <HashRouter basename='/'>
             <Switch>
                 <Route exact path="/" component={About} />
