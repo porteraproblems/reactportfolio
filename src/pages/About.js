@@ -12,16 +12,15 @@ function About() {
             <Row>
                 {/*<!--Headshot-->*/}
                 <Col md="3">
-                    <img src={Headshot} alt="Alexander Portera" className="img-fluid mx-auto d-block" id="headshot" />
+                    <img src={Headshot} alt="Alexander Portera" className="img-fluid mx-auto d-block" height="300px" width="300px" id="headshot" />
                 </Col>
                 {/*<--About me--> */}
                 <Col md="9">
                     <header>
                         <h2>About Me</h2>
-                        <hr />
                     </header>
 
-                    <p>This is the part where I explain myself</p>
+                    <p>Rutgers Coding and Web Development Bootcamp graduate with an interest in frontend design. Heavy background in theater, and 5-6 years’ experience in retail.</p>
 
                     <header>
                         <h2>Experience and Skills</h2>
@@ -36,7 +35,7 @@ function About() {
                     {/* <!-- Education Row 1 --> */}
                     <Row>
                         <Col md="1">
-                            <img src={Rutgers} className="img-fluid mx-auto d-block icon" alt="Rutgers Icon" />
+                            <img src={Rutgers} className="img-fluid mx-auto d-block icon" height="50px" width="50px" alt="Rutgers Icon" />
                         </Col>
                         <Col md="11">
                             <p>Rutgers University - Coding Bootcamp</p>
@@ -45,7 +44,7 @@ function About() {
                     {/* <!-- Education Row 2 --> */}
                     <Row>
                         <Col md="1">
-                            <img src={Kean} className="img-fluid mx-auto d-block icon" alt="Kean Icon" />
+                            <img src={Kean} className="img-fluid mx-auto d-block icon" height="50px" width="50px" alt="Kean Icon" />
                         </Col>
                         <Col md="11">
                             <p>Kean University - BA Theatre</p>

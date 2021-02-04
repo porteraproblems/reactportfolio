@@ -18,19 +18,19 @@ function Contact() {
                     <br></br>
                     <Row>
                         <Col md="1">
-                            <img src={GitHub} className="img-fluid mx-auto d-block link-icon" alt="GitHub icon" />
+                            <img src={GitHub} className="img-fluid mx-auto d-block link-icon" height="300px" width="300px" alt="GitHub icon" />
                         </Col>
                         <Col md="11">
-                            <a href="https://github.com/porteraproblems" target="_black">My GitHub</a>
+                            <a href="https://github.com/porteraproblems" target="_blank">My GitHub</a>
                         </Col>
                     </Row>
 
                     <Row>
                         <Col md="1">
-                            <img src={LinkedIn} className="img-fluid mx-auto d-block link-icon" alt="LinkedIn icon" />
+                            <img src={LinkedIn} className="img-fluid mx-auto d-block link-icon" height="300px" width="300px" alt="LinkedIn icon" />
                         </Col>
                         <Col md="11">
-                            <a href="https://www.linkedin.com/in/alexander-portera-9baa6a49/" target="_black">My LinkedIn</a>
+                            <a href="https://www.linkedin.com/in/alexander-portera-9baa6a49/" target="_blank">My LinkedIn</a>
                         </Col>
                     </Row>
 

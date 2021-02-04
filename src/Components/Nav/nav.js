@@ -14,8 +14,8 @@ const Navi = props => {
     const [isOpen, toggle] = useState(false);
 
     return (
-        <div>
-            <Navbar className="navibar" expand="md" light>
+        <div width="100%">
+            <Navbar className="navibar" expand="lg" light>
                 <NavbarBrand href="/" className="mr-auto" id="brand">
                     Alexander Portera
             </NavbarBrand>

@@ -1,15 +1,18 @@
-.naviBar{
-background-color: black;} 
+.navibar {
+    background-color: rgb(143, 143, 143);
+}
 
-#brand{
+#brand {
     color: black;
     font-weight: bolder;
-    -webkit-text-stroke-width: .2px;
-    -webkit-text-stroke-color: salmon;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(0, 117, 59);
     font-size: 30px;
 }
 
-.nav-link{
+.nav-link {
     color: black;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(0, 117, 59);
     font-size: 30px;
 }
