@@ -15,7 +15,7 @@ const ProjectCards = () => {
                             <Card.Title tag="h5">Look4Ward2It</Card.Title>
                             <Card.Subtitle tag="h6" className="mb-2 text-muted">First Group Project</Card.Subtitle>
                             <Card.Text>This is the first project my group and I created for Bootcamp. It's a prototype calendar that shows upcoming events you may not have known based on your interests.</Card.Text>
-                            <Card.Link href="https://rzelazny.github.io/Look4wardToIt/">Take a look</Card.Link>
+                            <Card.Link id="cardLink" href="https://rzelazny.github.io/Look4wardToIt/">Take a look</Card.Link>
                         </Card.Body>
                 </Card>
                 <br></br>

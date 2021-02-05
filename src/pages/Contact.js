@@ -16,7 +16,7 @@ function Contact() {
                     </header>
                     <p>Listed below is both my work history via LinkedIn, and my other projects not listed on my GitHub page.</p>
                     <p>Feel free to contact me through my email at 
-                        <a> aportera3@gmail.com</a>
+                        <a className="text-primary"> aportera3@gmail.com</a>
                     </p>
                     <br></br>
                     <Row>
