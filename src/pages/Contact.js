@@ -14,7 +14,10 @@ function Contact() {
                         <h2>Contact Me</h2>
                         <hr />
                     </header>
-                    <p>This is the part where I tell you things</p>
+                    <p>Listed below is both my work history via LinkedIn, and my other projects not listed on my GitHub page.</p>
+                    <p>Feel free to contact me through my email at 
+                        <a> aportera3@gmail.com</a>
+                    </p>
                     <br></br>
                     <Row>
                         <Col md="1">
@@ -24,7 +27,7 @@ function Contact() {
                             <a href="https://github.com/porteraproblems" target="_blank">My GitHub</a>
                         </Col>
                     </Row>
-
+<br></br>
                     <Row>
                         <Col md="1">
                             <img src={LinkedIn} className="img-fluid mx-auto d-block link-icon" height="300px" width="300px" alt="LinkedIn icon" />

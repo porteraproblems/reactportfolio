@@ -1,20 +1,20 @@
 body {
     background-image: url("./Components/Images/Mousetrap.jpg");
-    background-color: rgb(0, 95, 32);
+    background-color: black;
     height: auto;
     width: auto;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: 100%;
 }
 
 .container {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.342);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: large;
     color: black;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: rgb(0, 117, 59);
+    -webkit-text-stroke-width: .3px;
+    -webkit-text-stroke-color: rgb(255, 255, 255);
 }
 
 a {
