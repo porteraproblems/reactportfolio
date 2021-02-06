@@ -2,12 +2,12 @@ import React from "react";
 import Navi from "../Components/Nav/nav";
 import { Container, Row, Col } from "reactstrap";
 import Headshot from "../Components/Images/Headshot.jpg";
-import Rutgers from "../Components/Images/Rutgerslogo.png";
+import Rutgers from "../Components/Images/RU.jpg";
 import Kean from "../Components/Images/Keanlogo.png"
 
 function About() {
     return (
-        <Container fluid className="container">
+        <Container fluid id="container">
             <Navi />
             <Row>
                 {/*<!--Headshot-->*/}
@@ -42,6 +42,7 @@ function About() {
                         </Col>
                     </Row>
                     {/* <!-- Education Row 2 --> */}
+                    <br></br>
                     <Row>
                         <Col md="1">
                             <img src={Kean} className="img-fluid mx-auto d-block icon" height="50px" width="50px" alt="Kean Icon" />

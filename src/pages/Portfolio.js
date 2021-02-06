@@ -5,7 +5,7 @@ import ProjectCards from "../Components/Cards/cards"
 
 function Portfolio() {
     return (
-        <Container fluid className="container">
+        <Container fluid id="containerThree">
             <Navi />
             <Col lg="12">
                 <ProjectCards />

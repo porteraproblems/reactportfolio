@@ -6,7 +6,7 @@ import LinkedIn from "../Components/Images/LinkedIn.png";
 
 function Contact() {
     return (
-        <Container fluid className="container">
+        <Container fluid id="containerTwo">
             <Navi />
             <Row>
                 <Col className="col-md-12">
