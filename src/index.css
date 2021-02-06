@@ -1,5 +1,4 @@
 body {
-    /* background-image: url("./Components/Images/Background.png"); */
     background-color: black;
     height: 100%;
     width: 100%;
@@ -8,22 +7,55 @@ body {
     background-size: 100%;
 }
 
+body::after {
+    background-image: url("./Components/Images/Background.png");
+    content: "";
+    opacity: 30%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: -1;
+}
+
 #container {
     /* background-color: rgba(255, 255, 255, 0.342); */
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
     font-size: large;
-    color: black;
+    color: white;
     -webkit-text-stroke-width: .3px;
-    -webkit-text-stroke-color: rgb(255, 255, 255);
+    -webkit-text-stroke-color: blue;
 }
 
 #containerTwo {
-    background-color: rgba(255, 255, 255, 0.342);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* background-color: rgba(255, 255, 255, 0.342); */
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
     font-size: large;
-    color: black;
+    color: white;
+    -webkit-text-stroke-width: .3px;
+    -webkit-text-stroke-color:blue;
+};
 
-}
+#containerThree {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: large;
+    color: white;
+    -webkit-text-stroke-width: .3px;
+    -webkit-text-stroke-color: blue;
+
+};
+
 a {
-    color: blue
+    color: blue;
+    /* -webkit-text-stroke-width: .3px;
+    -webkit-text-stroke-color: blue; */
+
+};
+
+.atag {
+    color: blue;
+    /* -webkit-text-stroke-width: .3px;
+    -webkit-text-stroke-color: blue; */
+
 }

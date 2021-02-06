@@ -9,7 +9,9 @@ function Portfolio() {
             <Navi />
             <Col lg="12">
                 <ProjectCards />
-                <p className="text-center" target="_blank">Other projects can be found on my GitHub</p>
+                <p className="text-center">Other projects can be found on my
+                <a href="https://github.com/porteraproblems" target= "_blank"> GitHub</a>
+                </p>
             </Col>
         </Container>
     )
