@@ -33,6 +33,7 @@ body::after {
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     font-size: large;
     color: white;
+    justify-content:center;
     -webkit-text-stroke-width: .3px;
     -webkit-text-stroke-color:blue;
 };
@@ -45,17 +46,3 @@ body::after {
     -webkit-text-stroke-color: blue;
 
 };
-
-a {
-    color: blue;
-    /* -webkit-text-stroke-width: .3px;
-    -webkit-text-stroke-color: blue; */
-
-};
-
-.atag {
-    color: blue;
-    /* -webkit-text-stroke-width: .3px;
-    -webkit-text-stroke-color: blue; */
-
-}

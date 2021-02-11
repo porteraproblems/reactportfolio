@@ -3,11 +3,13 @@ import { Container, Row, Col } from "reactstrap";
 import Navi from "../Components/Nav/nav";
 import GitHub from "../Components/Images/GitHub.png";
 import LinkedIn from "../Components/Images/LinkedIn.png";
+import "./Contact.css";
 
 function Contact() {
     return (
         <Container fluid id="containerTwo">
             <Navi />
+            <br></br>
             <Row>
                 <Col className="col-md-12">
                     <header>

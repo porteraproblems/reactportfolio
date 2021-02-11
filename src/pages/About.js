@@ -9,6 +9,7 @@ function About() {
     return (
         <Container fluid id="container">
             <Navi />
+            <br></br>
             <Row>
                 {/*<!--Headshot-->*/}
                 <Col md="3">
