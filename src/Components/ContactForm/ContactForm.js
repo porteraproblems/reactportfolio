@@ -32,7 +32,7 @@ export default function ContactForm() {
                         <textarea className="form-control" id="" cols="30" rows="8" placeholder="Your Message" name="message" />
                     </div>
                     <div className="col-8 pt-3 mx-auto">
-                        <input type="submit" className="btn btn-info" value="Send Message" />
+                        <input type="submit" className="btn btn-info" value="Send Email" />
                     </div>
                 </div>
             </form>

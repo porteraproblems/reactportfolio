@@ -19,22 +19,28 @@ function Contact() {
                     </header>
                     <p>Listed below is both my work history via LinkedIn, and my other projects not listed on my GitHub page.</p>
                     <p>Feel free to contact me through my email at aportera3@gmail.com</p>
-                <ContactForm />
+                </Col>
+
+                <Col className="col-md-6">
+                    <ContactForm />
+                </Col>
+                
+                <Col className="col-md-6">
                     <br></br>
                     <Row>
-                        <Col md="1">
-                            <img src={GitHub} className="img-fluid mx-auto d-block link-icon" height="300px" width="300px" alt="GitHub icon" />
+                        <Col md="3">
+                            <img src={GitHub} className="img mx-auto d-block link-icon" height="150px" width="150px" alt="GitHub icon" />
                         </Col>
-                        <Col md="11">
+                        <Col md="6">
                             <a className="atag" href="https://github.com/porteraproblems" target="_blank">My GitHub</a>
                         </Col>
                     </Row>
-<br></br>
+                    <br></br>
                     <Row>
-                        <Col md="1">
-                            <img src={LinkedIn} className="img-fluid mx-auto d-block link-icon" height="300px" width="300px" alt="LinkedIn icon" />
+                        <Col md="3">
+                            <img src={LinkedIn} className="img mx-auto d-block link-icon" height="150px" width="150px" alt="LinkedIn icon" />
                         </Col>
-                        <Col md="11">
+                        <Col md="6">
                             <a className="atag" href="https://www.linkedin.com/in/alexander-portera-9baa6a49/" target="_blank">My LinkedIn</a>
                         </Col>
                     </Row>
