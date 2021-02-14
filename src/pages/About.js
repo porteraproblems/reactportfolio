@@ -21,7 +21,7 @@ function About() {
                         <h2>About Me</h2>
                     </header>
 
-                    <p>Professional full-stack developer with an interest in frontend design UXUI. Demonstrated experience across the SDLC with an emphasis in Javascript.  Passionate about making web applications come to life considering the user experience. Heavy background in theater, and 5-6 years’ experience in customer service. </p>
+                    <p>Professional full-stack developer with an interest in frontend design UX/UI. Demonstrated experience across the SDLC with an emphasis in Javascript.  Passionate about making web applications come to life considering the user experience. Additional background in theater, and 5-6 years in customer service. </p>
 
                     <header>
                         <h2>Education</h2>
