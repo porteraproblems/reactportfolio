@@ -18,7 +18,9 @@ function Contact() {
                         <hr />
                     </header>
                     <p>Listed below is both my work history via LinkedIn, and my other projects not listed on my GitHub page.</p>
-                    <p>Feel free to contact me through my email at aportera3@gmail.com</p>
+                    <p>Feel free to contact me through my email at 
+                        <a> aportera3@gmail.com </a> 
+                        or use the spaces below.</p>
                 </Col>
 
                 <Col className="col-md-6">
