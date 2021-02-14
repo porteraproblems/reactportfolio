@@ -21,13 +21,7 @@ function About() {
                         <h2>About Me</h2>
                     </header>
 
-                    <p>Rutgers Coding and Web Development Bootcamp graduate with an interest in frontend design. Heavy background in theater, and 5-6 years’ experience in retail.</p>
-
-                    <header>
-                        <h2>Experience and Skills</h2>
-                    </header>
-
-                    <p>This is the part where I put down my XP and skills</p>
+                    <p>Professional full-stack developer with an interest in frontend design UXUI. Demonstrated experience across the SDLC with an emphasis in Javascript.  Passionate about making web applications come to life considering the user experience. Heavy background in theater, and 5-6 years’ experience in customer service. </p>
 
                     <header>
                         <h2>Education</h2>
@@ -52,8 +46,16 @@ function About() {
                             <p>Kean University - BA Theatre</p>
                         </Col>
                     </Row>
+                    <br></br>
                     <h2>Technologies and Languages</h2>
-                    <p>HTML, CSS, JavaScript, JQuery, React</p>
+                    <p>Languages: HTML5, CSS, JavaScript,
+                    <br></br>
+                    Frameworks: React, Express, Node
+                    <br></br>
+                    Databases: MySQL, MongoDB
+                    <br></br>
+                    Additional Tools: Bootstrap, API Interactions, JQuery
+</p>
                 </Col>
             </Row>
         </Container>

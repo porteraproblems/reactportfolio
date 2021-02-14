@@ -1,5 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "reactstrap";
+import ContactForm from "../Components/ContactForm/ContactForm"
 import Navi from "../Components/Nav/nav";
 import GitHub from "../Components/Images/GitHub.png";
 import LinkedIn from "../Components/Images/LinkedIn.png";
@@ -18,6 +19,7 @@ function Contact() {
                     </header>
                     <p>Listed below is both my work history via LinkedIn, and my other projects not listed on my GitHub page.</p>
                     <p>Feel free to contact me through my email at aportera3@gmail.com</p>
+                <ContactForm />
                     <br></br>
                     <Row>
                         <Col md="1">
