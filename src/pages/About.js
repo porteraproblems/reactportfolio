@@ -1,9 +1,10 @@
 import React from "react";
 import Navi from "../Components/Nav/nav";
 import { Container, Row, Col } from "reactstrap";
-import Headshot from "../Components/Images/Headshot.jpg";
+import Headshot from "../Components/Images/Headshot.JPG";
 import Rutgers from "../Components/Images/RU.jpg";
-import Kean from "../Components/Images/Keanlogo.png"
+import Kean from "../Components/Images/Keanlogo.png";
+import Image from 'react-bootstrap/Image'
 
 function About() {
     return (
@@ -12,8 +13,8 @@ function About() {
             <br></br>
             <Row>
                 {/*<!--Headshot-->*/}
-                <Col md="3">
-                    <img src={Headshot} alt="Alexander Portera" className="img-fluid mx-auto d-block" height="300px" width="300px" id="headshot" />
+                <Col xs="7" md="3">
+                    <Image src={Headshot} alt="Alexander Portera" className="img-fluid mx-auto d-block" height="300px" width="300px" id="headshot" roundedCircle />
                 </Col>
                 {/*<--About me--> */}
                 <Col md="9">
