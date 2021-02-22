@@ -12,7 +12,7 @@ function Portfolio() {
             <Col lg="12">
                 <ProjectCards />
                 <p id="gitgit" className="text-center">Other projects can be found on my
-                <a href="https://github.com/porteraproblems" target= "_blank"> GitHub</a>
+                <a href="https://github.com/porteraproblems" rel="noreferrer" target= "_blank"> GitHub</a>
                 </p>
             </Col>
         </Container>
