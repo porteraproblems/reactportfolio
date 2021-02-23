@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.859ca3ba.chunk.css",
+    "main.js": "/reactportfolio/static/js/main.605d8071.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.605d8071.chunk.js.map",
+    "runtime-main.js": "/reactportfolio/static/js/runtime-main.703f314f.js",
+    "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.703f314f.js.map",
+    "static/js/2.31d7c543.chunk.js": "/reactportfolio/static/js/2.31d7c543.chunk.js",
+    "static/js/2.31d7c543.chunk.js.map": "/reactportfolio/static/js/2.31d7c543.chunk.js.map",
+    "index.html": "/reactportfolio/index.html",
+    "static/css/main.859ca3ba.chunk.css.map": "/reactportfolio/static/css/main.859ca3ba.chunk.css.map",
+    "static/js/2.31d7c543.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.31d7c543.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/reactportfolio/static/media/Background.49c4a2ec.png",
+    "static/media/Headshot.88e1d2ee.JPG": "/reactportfolio/static/media/Headshot.88e1d2ee.JPG",
+    "static/media/Keanlogo.b5908807.png": "/reactportfolio/static/media/Keanlogo.b5908807.png",
+    "static/media/L42I.df20e733.png": "/reactportfolio/static/media/L42I.df20e733.png",
+    "static/media/RU.d7cbca4d.jpg": "/reactportfolio/static/media/RU.d7cbca4d.jpg",
+    "static/media/SU2.c158e115.png": "/reactportfolio/static/media/SU2.c158e115.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.703f314f.js",
+    "static/js/2.31d7c543.chunk.js",
+    "static/css/main.859ca3ba.chunk.css",
+    "static/js/main.605d8071.chunk.js"
+  ]
+}
