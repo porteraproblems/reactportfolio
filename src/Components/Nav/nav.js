@@ -15,10 +15,10 @@ const Navi = props => {
 
     return (
         <div width="100%">
-            <Navbar id="navibar" expand="lg">
+            <Navbar id="navibar" expand="lg" light>
                 <NavbarBrand href="/" className="mr-auto" id="brand">
                     Alexander Portera
-            </NavbarBrand>
+                </NavbarBrand>
                 <NavbarToggler onClick={() => toggle(!isOpen)} className="mr-2" />
                 <Collapse isOpen={isOpen} navbar>
                     <Nav className="ml-auto" navbar>
