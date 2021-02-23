@@ -15,7 +15,7 @@ const Navi = props => {
 
     return (
         <div width="100%">
-            <Navbar className="navibar" expand="lg" light>
+            <Navbar className="navibar" expand="lg">
                 <NavbarBrand href="/" className="mr-auto" id="brand">
                     Alexander Portera
             </NavbarBrand>
