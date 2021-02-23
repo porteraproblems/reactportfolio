@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactportfolio/static/css/main.390832f7.chunk.css",
+    "main.css": "/reactportfolio/static/css/main.21244e62.chunk.css",
     "main.js": "/reactportfolio/static/js/main.b79f776d.chunk.js",
     "main.js.map": "/reactportfolio/static/js/main.b79f776d.chunk.js.map",
     "runtime-main.js": "/reactportfolio/static/js/runtime-main.703f314f.js",
@@ -8,8 +8,9 @@
     "static/js/2.31d7c543.chunk.js": "/reactportfolio/static/js/2.31d7c543.chunk.js",
     "static/js/2.31d7c543.chunk.js.map": "/reactportfolio/static/js/2.31d7c543.chunk.js.map",
     "index.html": "/reactportfolio/index.html",
-    "static/css/main.390832f7.chunk.css.map": "/reactportfolio/static/css/main.390832f7.chunk.css.map",
+    "static/css/main.21244e62.chunk.css.map": "/reactportfolio/static/css/main.21244e62.chunk.css.map",
     "static/js/2.31d7c543.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.31d7c543.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/reactportfolio/static/media/Background.49c4a2ec.png",
     "static/media/Headshot.88e1d2ee.JPG": "/reactportfolio/static/media/Headshot.88e1d2ee.JPG",
     "static/media/Keanlogo.b5908807.png": "/reactportfolio/static/media/Keanlogo.b5908807.png",
     "static/media/L42I.df20e733.png": "/reactportfolio/static/media/L42I.df20e733.png",
@@ -19,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.703f314f.js",
     "static/js/2.31d7c543.chunk.js",
-    "static/css/main.390832f7.chunk.css",
+    "static/css/main.21244e62.chunk.css",
     "static/js/main.b79f776d.chunk.js"
   ]
 }
