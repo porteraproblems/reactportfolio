@@ -10,7 +10,7 @@ body {
 body::after {
     background-image: url("./Components/Images/Background.png");
     content: "";
-    opacity: 30%;
+    opacity: .3;
     position: absolute;
     top: 0;
     bottom: 0;
