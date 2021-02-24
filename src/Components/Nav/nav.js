@@ -14,7 +14,6 @@ const Navi = props => {
     const [isOpen, toggle] = useState(false);
 
     return (
-        <div width="100%">
             <Navbar id="navibar" expand="lg" light>
                 <NavbarBrand href="/" className="mr-auto" id="brand">
                     Alexander Portera
@@ -40,7 +39,6 @@ const Navi = props => {
                     </Nav>
                 </Collapse>
             </Navbar>
-        </div>
     );
 };
 

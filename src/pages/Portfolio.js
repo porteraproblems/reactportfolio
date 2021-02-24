@@ -1,13 +1,13 @@
 import React from "react";
 import { Container, Col } from "reactstrap";
-import Navi from "../Components/Nav/nav";
+// import Navi from "../Components/Nav/nav";
 import ProjectCards from "../Components/Cards/cards";
 import "./Portfolio.css"
 
 function Portfolio() {
     return (
         <Container fluid id="containerThree">
-            <Navi />
+            {/* <Navi /> */}
             <br></br>
             <Col lg="12">
                 <ProjectCards />

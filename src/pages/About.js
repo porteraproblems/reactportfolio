@@ -1,5 +1,5 @@
 import React from "react";
-import Navi from "../Components/Nav/nav";
+// import Navi from "../Components/Nav/nav";
 import { Container, Row, Col } from "reactstrap";
 import Headshot from "../Components/Images/Headshot.JPG";
 import Rutgers from "../Components/Images/RU.jpg";
@@ -9,7 +9,6 @@ import Image from 'react-bootstrap/Image'
 function About() {
     return (
         <Container fluid id="container">
-            <Navi />
             <br></br>
             <Row>
                 {/*<!--Headshot-->*/}
