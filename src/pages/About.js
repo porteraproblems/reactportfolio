@@ -1,7 +1,7 @@
 import React from "react";
 // import Navi from "../Components/Nav/nav";
 import { Container, Row, Col } from "reactstrap";
-import Headshot from "../Components/Images/Headshot.JPG";
+import Headshot from "../Components/Images/Headshot.jpg";
 import Rutgers from "../Components/Images/RU.jpg";
 import Kean from "../Components/Images/Keanlogo.png";
 import Image from 'react-bootstrap/Image'

@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 import "./Nav.css";
 import {
+    Container,
     Collapse,
     Navbar,
     NavbarToggler,
@@ -14,7 +15,8 @@ const Navi = props => {
     const [isOpen, toggle] = useState(false);
 
     return (
-            <Navbar id="navibar" expand="lg" light>
+        <Navbar className="navibar" expand="lg" bg="light" variant="dark" dark>
+            <Container>
                 <NavbarBrand href="/" className="mr-auto" id="brand">
                     Alexander Portera
                 </NavbarBrand>
@@ -38,7 +40,8 @@ const Navi = props => {
                         </NavItem>
                     </Nav>
                 </Collapse>
-            </Navbar>
+            </Container>
+        </Navbar>
     );
 };
 
