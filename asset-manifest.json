@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactportfolio/static/css/main.5fea70d5.chunk.css",
-    "main.js": "/reactportfolio/static/js/main.9417f9d3.chunk.js",
-    "main.js.map": "/reactportfolio/static/js/main.9417f9d3.chunk.js.map",
+    "main.js": "/reactportfolio/static/js/main.e5e14ef3.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.e5e14ef3.chunk.js.map",
     "runtime-main.js": "/reactportfolio/static/js/runtime-main.703f314f.js",
     "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.703f314f.js.map",
     "static/js/2.09895a06.chunk.js": "/reactportfolio/static/js/2.09895a06.chunk.js",
@@ -15,12 +15,13 @@
     "static/media/Keanlogo.b5908807.png": "/reactportfolio/static/media/Keanlogo.b5908807.png",
     "static/media/L42I.df20e733.png": "/reactportfolio/static/media/L42I.df20e733.png",
     "static/media/RU.d7cbca4d.jpg": "/reactportfolio/static/media/RU.d7cbca4d.jpg",
+    "static/media/SU1.3932f616.png": "/reactportfolio/static/media/SU1.3932f616.png",
     "static/media/SU2.c158e115.png": "/reactportfolio/static/media/SU2.c158e115.png"
   },
   "entrypoints": [
     "static/js/runtime-main.703f314f.js",
     "static/js/2.09895a06.chunk.js",
     "static/css/main.5fea70d5.chunk.css",
-    "static/js/main.9417f9d3.chunk.js"
+    "static/js/main.e5e14ef3.chunk.js"
   ]
 }
